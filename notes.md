@@ -8,3 +8,5 @@
   - Extendable
 - Fail-safe
   - Get as much tags as possible - don't fail the whole process if a single tag cannot be parsed
+- Simple usage
+  - Sensible default options
